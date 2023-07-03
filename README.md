@@ -8,4 +8,3 @@
 ``Trello``,``SoapUI``,  ``Charles``, ``PgAdmin``, ``Git``, ``Mockoonv, ``Chrome DevTools``.
 
 
-
