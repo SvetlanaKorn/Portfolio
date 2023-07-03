@@ -4,8 +4,8 @@
 Привет! Меня зовут Светлана, я начинающий тестировщик. Здесь вы найдете некоторые из моих проектов, выполненных во время обучения и практики.
 
 ### Навыки :
-``Jira``, ``Sitechco``, ``Checkvist``, ``Qase.io``, ``SQL``, ``Postman``, ``Swagger``, ``Trello``,
-``SoapUI``,  ``Charles``, ``PgAdmin``, ``Git``, ``Mockoonv, ``Chrome DevTools``.
+``Jira``, ``Sitechco``, ``Checkvist``, ``Qase.io``, ``SQL``, ``Postman``, ``Swagger``, <br>
+``Trello``,``SoapUI``,  ``Charles``, ``PgAdmin``, ``Git``, ``Mockoonv, ``Chrome DevTools``.
 
 
 
