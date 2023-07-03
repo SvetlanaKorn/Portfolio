@@ -6,5 +6,5 @@
 
 ---
 ### Навыки :
-Jira, Qase.io, SQL, Postman, Swagger, Trello,
-SoapUI,  Charles, Git, Chrome DevTools
+Jira, Sitechco, Checkvist, Qase.io, SQL, Postman, Swagger, Trello,
+SoapUI,  Charles, PgAdmin, Git, Mockoon, Chrome DevTools
