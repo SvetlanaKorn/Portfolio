@@ -5,7 +5,7 @@
 
 ### Навыки :
 ``Jira``, ``Sitechco``, ``Checkvist``, ``Qase.io``, ``SQL``, ``Postman``, ``Swagger``, ``Trello``,
-``SoapUI``,  ``Charles``, ``PgAdmin``, ``Git``, ``Mockoonv, ``Chrome DevTools``
+``SoapUI``,  ``Charles``, ``PgAdmin``, ``Git``, ``Mockoonv, ``Chrome DevTools``,
 
 
 
