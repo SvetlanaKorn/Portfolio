@@ -5,7 +5,7 @@
 
 ### Навыки :
 ``Jira``, ``Sitechco``, ``Checkvist``, ``Qase.io``, ``SQL``, ``Postman``, ``Swagger``, <br>
-``Trello``,``SoapUI``,  ``Charles``, ``PgAdmin``, ``Git``, ``Mockoonv``. \
+``Trello``,``SoapUI``,  ``Charles``, ``PgAdmin``, ``Git``, ``Mockoonv``. 
 
 ### Проекты :
 Проект 1: тест веб-приложения для учителей от Skyeng
