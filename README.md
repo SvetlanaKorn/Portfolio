@@ -5,7 +5,7 @@
 
 ### Навыки :
 ``Jira``, ``Sitechco``, ``Checkvist``, ``Qase.io``, ``SQL``, ``Postman``, ``Swagger``, <br>
-``Trello``,``SoapUI``,  ``Charles``, ``PgAdmin``, ``Mockoonv``,``Atlassian Jira``, ``FIGMA``.
+``Trello``,``SoapUI``,  ``Charles``, ``PgAdmin``, ``Mockoonv``,``Atlassian Jira``, ``FIGMA``, ``Miro``.
 
 
 
